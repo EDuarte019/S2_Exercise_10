@@ -14,7 +14,7 @@
 */
 
 /* Transition Styles */
-nav#toplinks a {
+nav#topLinks a {
   color: rgb(255, 255, 255);
   font-size: 1em;
   letter-spacing: 0em;
@@ -22,7 +22,7 @@ nav#toplinks a {
   transition: color 1.5s ease-in 0.5s, font-size 2s ease, letter-spacing 2s ease-out, text-shadow 2s cubic-bezier(0.6, 0, 0, 1);
 }
 
-nav#toplinks a:hover {
+nav#topLinks a:hover {
   color: rgb(255, 183, 25);
   font-size: 3em;
   letter-spacing: 0.1em;
